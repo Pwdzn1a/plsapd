@@ -1,0 +1,103 @@
+body {
+    font-family: Arial Black, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('bck.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header {
+    color: #ffffff;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+header .logo {
+    margin-right: auto;
+}
+
+header .logo img {
+    height: 150px;
+    background-color: transparent;
+}
+
+nav {
+    background-color: transparent;
+    color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #000; /* Изменено на черный цвет */
+    text-decoration: none;
+    background-color: transparent;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    transition: background-color 0.3s;
+}
+
+nav ul li a:hover {
+    background-color: #555;
+}
+
+.content {
+    padding: 20px;
+    color: #000;
+    text-align: center;
+    min-height: calc(100vh - 120px);
+    position: relative;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between; /* Добавлено для распределения пространства */
+    align-items: center; /* Добавлено для вертикального выравнивания */
+}
+
+.content img.right-img { /* Стили для изображения в правой части */
+    max-width: 50%; /* Максимальная ширина изображения */
+    height: auto; /* Высота автоматически адаптируется к ширине */
+}
+
+footer {
+    background-color: #000;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+}
+
+.social-icons {
+    margin-bottom: 20px;
+}
+
+.social-icons a {
+    display: inline-block;
+    margin: 0 5px;
+    background-color: transparent;
+}
+
+.social-icons img {
+    width: 30px;
+    height: auto;
+}
+
+footer form {
+    margin-bottom: 20px;
+}
