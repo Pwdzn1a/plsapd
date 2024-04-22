@@ -1,0 +1,32 @@
+{
+  "worlds": [
+    {
+      "name": "Новый мир",
+      "source": "D:\\saves\\Новый мир",
+      "destination": "D:\\backup\\saves\\saves\\Новый мир",
+      "lastChanged": "2023-12-02T22:30:08",
+      "backup": false
+    },
+    {
+      "name": "Новый мир (1)",
+      "source": "D:\\saves\\Новый мир (1)",
+      "destination": "D:\\backup\\saves\\saves\\Новый мир (1)",
+      "lastChanged": "2023-12-02T15:14:05",
+      "backup": false
+    },
+    {
+      "name": "Новый мир (2)",
+      "source": "D:\\saves\\Новый мир (2)",
+      "destination": "D:\\backup\\saves\\saves\\Новый мир (2)",
+      "lastChanged": "2023-02-27T22:46:06",
+      "backup": false
+    },
+    {
+      "name": "Новый мир (3)",
+      "source": "D:\\saves\\Новый мир (3)",
+      "destination": "D:\\backup\\saves\\saves\\Новый мир (3)",
+      "lastChanged": "2023-12-02T15:12:54",
+      "backup": false
+    }
+  ]
+}

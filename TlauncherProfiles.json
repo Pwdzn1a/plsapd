@@ -1,0 +1,16 @@
+{
+  "clientToken": "55fafc05-d3cd-42a8-8427-3fde79d381d1",
+  "accounts": {
+    "331290fd94d84441a93e07bdb40d1af4": {
+      "username": "Mabik",
+      "userID": "Mabik",
+      "displayName": "Mabik",
+      "uuid": "331290fd94d84441a93e07bdb40d1af4",
+      "type": "free",
+      "skinType": "tlauncher",
+      "premiumAccount": false
+    }
+  },
+  "selectedAccountUUID": "331290fd94d84441a93e07bdb40d1af4",
+  "freeAccountUUID": "331290fd94d84441a93e07bdb40d1af4"
+}
